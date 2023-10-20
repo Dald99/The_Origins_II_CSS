@@ -1,0 +1,12 @@
+#outer {
+    width: 500px;
+    height: 500px;
+    background-color: lightgreen;
+}
+
+#inner {
+    width: 400px;
+    height: 400px;
+    background-image: url("https://i.natgeofe.com/n/d5863c64-a28c-4e30-9ee8-ecc4175e8439/NationalGeographic_2745282_square.jpg");
+    background-size: contain;
+}
